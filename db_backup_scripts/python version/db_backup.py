@@ -1,7 +1,9 @@
+# python version used: 3.12.3
+
 # Required Packages
 # pip install boto3 python-dotenv
 
-# Rename .env.example.python to .env and fill in the values
+# Rename .env.example to .env and fill in the values
 
 # For Postgre
 # DB_TYPE=postgres
